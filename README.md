@@ -1,16 +1,31 @@
-# React + Vite
+# Zentry Clone - Awards Site
+A high-performance, visually stunning landing page inspired by the Zentry website. This project showcases advanced frontend techniques, including complex GSAP scroll-triggered animations, a custom Bento Grid layout, and seamless video integration. Built with React and Tailwind CSS v4, it focuses on providing a triple-A gaming aesthetic with fluid user interactions.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌐 Live Demo
+Check it out here:
 
-Currently, two official plugins are available:
+# 🛠️ Tech Stack
+Frontend: React.js, Tailwind CSS v4
+Animations: GSAP (GreenSock Animation Platform), ScrollTrigger
+Icons: React Icons (TiLocationArrow)
+Deployment: Vercel
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# ⚙️ Features
+⚡ Advanced GSAP Animations: Professional-grade scroll triggers, stagger effects, and 3D transitions for a dynamic "gaming" feel.
 
-## React Compiler
+🍱 Responsive Bento Grid: A complex, adaptive grid layout that stacks vertically on mobile devices and expands into a dynamic 3-row mosaic on desktop.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🎨 Tailwind v4 Integration: Utilizing the latest CSS-first configuration, @theme variables, and custom utility layers for lightning-fast styling.
 
-## Expanding the ESLint configuration
+🎥 Video-Centric UI: Smoothly looping background videos and hover-triggered media playbacks within bento cards.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔠 Custom Typography: Integration of premium gaming fonts (Zentry, Circular Web) with custom HTML parsing for bolded characters within animated titles.
+
+
+
+
+# 🚀 Getting Started
+Prerequisites
+React Js
+Tailwind Css (v4)
+Git (for version control)
